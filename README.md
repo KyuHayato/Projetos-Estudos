@@ -1,6 +1,6 @@
 # Projetos-Estudos
 Destinado para projetos de estudos FullStacks 
-
+<div>
         <h3>Projetos presentes: </h3>
         <ol>
             <li>Portal Noticias (Udemy)</li>
@@ -37,3 +37,4 @@ Destinado para projetos de estudos FullStacks
                 <li>Body-parser</li>
             </ul>
         </ol>
+       </div>
